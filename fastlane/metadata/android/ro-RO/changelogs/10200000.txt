@@ -1,5 +1,5 @@
 Modificări:
-- DHL ne cere acum să-ți solicităm o cheie proprie pentru API. Urmărirea coletelor DHL nu va funcționa până când nu vei face acest lucru.
+- DHL ne cere acum să-ți solicităm o cheie proprie pentru API. Urmărirea coletelor DHL nu va funcționa până când nu vei furniza una.
 
 Servicii noi:
 - An Post (IE)
